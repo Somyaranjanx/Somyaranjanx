@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somya Ranjan Sahoo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <img align="right" alt="coding" width="400" src="![image](https://github.com/Somyaranjanx/Somyaranjanx/assets/143336673/d6fb1383-aa21-443c-9498-d676e2482d92)
 ">
